@@ -173,3 +173,8 @@ cython_debug/
 
 allure
 tests/allure-results
+
+.idea
+venv
+/tests/allure-results/
+/allure-results/
